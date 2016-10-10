@@ -1,2 +1,3 @@
 # MyFtp
-Reproduction of an simplist Ftp client/server in C. A 2nd year project in IT school.
+
+Coding of a simple FTP client/server in C. 2nd year student project at Epitech.
